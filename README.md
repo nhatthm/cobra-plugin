@@ -1,13 +1,11 @@
-# @nhatthm/{name}
+# Plugins command for Cobra
 
-<!--
-[![GitHub Releases](https://img.shields.io/github/v/release/nhatthm/{name})](https://github.com/nhatthm/{name}/releases/latest)
-[![Build Status](https://github.com/nhatthm/{name}/actions/workflows/test.yaml/badge.svg)](https://github.com/nhatthm/{name}/actions/workflows/test.yaml)
-[![codecov](https://codecov.io/gh/nhatthm/{name}/branch/master/graph/badge.svg?token=eTdAgDE2vR)](https://codecov.io/gh/nhatthm/{name})
-[![Go Report Card](https://goreportcard.com/badge/github.com/nhatthm/{name})](https://goreportcard.com/report/github.com/nhatthm/{name})
-[![GoDevDoc](https://img.shields.io/badge/dev-doc-00ADD8?logo=go)](https://pkg.go.dev/github.com/nhatthm/{name})
+[![GitHub Releases](https://img.shields.io/github/v/release/nhatthm/cobra-plugin)](https://github.com/nhatthm/cobra-plugin/releases/latest)
+[![Build Status](https://github.com/nhatthm/cobra-plugin/actions/workflows/test.yaml/badge.svg)](https://github.com/nhatthm/cobra-plugin/actions/workflows/test.yaml)
+[![codecov](https://codecov.io/gh/nhatthm/cobra-plugin/branch/master/graph/badge.svg?token=eTdAgDE2vR)](https://codecov.io/gh/nhatthm/cobra-plugin)
+[![Go Report Card](https://goreportcard.com/badge/github.com/nhatthm/cobra-plugin)](https://goreportcard.com/report/github.com/nhatthm/cobra-plugin)
+[![GoDevDoc](https://img.shields.io/badge/dev-doc-00ADD8?logo=go)](https://pkg.go.dev/github.com/nhatthm/cobra-plugin)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=PJZSGJN57TDJY)
--->
 
 TBD
 
@@ -18,7 +16,7 @@ TBD
 ## Install
 
 ```bash
-go get github.com/nhatthm/{name}
+go get github.com/nhatthm/cobra-plugin
 ```
 
 ## Usage

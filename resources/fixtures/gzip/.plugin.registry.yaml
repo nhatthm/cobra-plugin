@@ -1,0 +1,8 @@
+name: my-plugin
+url:
+hidden: true
+artifacts:
+    darwin/amd64:
+        file: my-plugin.tar.gz
+    linux/amd64:
+        file: my-plugin.tar.gz

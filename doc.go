@@ -1,2 +1,2 @@
-// Package main
-package main
+// Package cobraplugin provides plugins for cobra command.
+package cobraplugin
