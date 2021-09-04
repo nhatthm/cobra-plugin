@@ -2,6 +2,7 @@ package bootstrap
 
 import (
 	"bytes"
+	"context"
 	"flag"
 	"fmt"
 	"io/ioutil"
@@ -128,10 +129,12 @@ func makeGithubServer(t *testing.T) (*httpdog.External, func(*godog.ScenarioCont
 	svc := svr.GetMock(githubService)
 
 	return svr, func(ctx *godog.ScenarioContext) {
-		ctx.BeforeScenario(func(*godog.Scenario) {
+		ctx.Before(func(context.Context, *godog.Scenario) (context.Context, error) {
 			svc.JSONComparer.Vars.Set("my-plugin:v1.4.2:.plugin.registry.yaml:download-url",
 				fmt.Sprintf("%sowner/my-plugin/v1.4.2/.plugin.registry.yaml", svrURLWithSlash),
 			)
+
+			return nil, nil
 		})
 	}
 }
