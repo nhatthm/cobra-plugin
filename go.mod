@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/Netflix/go-expect v0.0.0-20210722184520-ef0bf57d82b3
 	github.com/bool64/ctxd v1.0.0
-	github.com/bool64/httpdog v0.2.0
+	github.com/bool64/httpdog v0.2.1
 	github.com/bool64/shared v0.1.3
 	github.com/cucumber/godog v0.12.1
 	github.com/nhatthm/aferodog v0.2.0
@@ -43,7 +43,7 @@ require (
 	github.com/rivo/uniseg v0.2.0 // indirect
 	github.com/sergi/go-diff v1.2.0 // indirect
 	github.com/spf13/afero v1.6.0 // indirect
-	github.com/swaggest/assertjson v1.6.7 // indirect
+	github.com/swaggest/assertjson v1.6.8 // indirect
 	github.com/swaggest/rest v0.2.11 // indirect
 	github.com/yosuke-furukawa/json5 v0.1.2-0.20201207051438-cf7bb3f354ff // indirect
 	github.com/yudai/gojsondiff v1.0.0 // indirect
