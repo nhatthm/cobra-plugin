@@ -7,7 +7,7 @@ require (
 	github.com/bool64/ctxd v1.0.0
 	github.com/bool64/httpdog v0.2.1
 	github.com/bool64/shared v0.1.3
-	github.com/cucumber/godog v0.12.1
+	github.com/cucumber/godog v0.12.2
 	github.com/nhatthm/aferodog v0.2.0
 	github.com/nhatthm/consoledog v0.2.0
 	github.com/nhatthm/plugin-registry v0.2.0
