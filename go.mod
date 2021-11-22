@@ -7,9 +7,9 @@ require (
 	github.com/bool64/ctxd v1.0.0
 	github.com/bool64/httpdog v0.2.0
 	github.com/bool64/shared v0.1.3
-	github.com/cucumber/godog v0.12.1
+	github.com/cucumber/godog v0.12.2
 	github.com/nhatthm/aferodog v0.2.0
-	github.com/nhatthm/consoledog v0.2.0
+	github.com/nhatthm/consoledog v0.2.1
 	github.com/nhatthm/plugin-registry v0.2.0
 	github.com/nhatthm/plugin-registry-github v0.2.0
 	github.com/olekukonko/tablewriter v0.0.5
@@ -19,7 +19,7 @@ require (
 )
 
 require (
-	github.com/creack/pty v1.1.15 // indirect
+	github.com/creack/pty v1.1.17 // indirect
 	github.com/cucumber/gherkin-go/v19 v19.0.3 // indirect
 	github.com/cucumber/messages-go/v16 v16.0.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
