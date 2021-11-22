@@ -16,7 +16,7 @@ import (
 	"github.com/bool64/httpdog"
 	"github.com/bool64/shared"
 	"github.com/cucumber/godog"
-	"github.com/nhatthm/aferodog"
+	"github.com/godogx/aferosteps"
 	"github.com/nhatthm/consoledog"
 	github "github.com/nhatthm/plugin-registry-github"
 	"github.com/stretchr/testify/assert"
@@ -63,7 +63,7 @@ func TestIntegration(t *testing.T) {
 	}
 
 	svr, registerVars := makeGithubServer(t)
-	fsManager := aferodog.NewManager()
+	fsManager := aferosteps.NewManager()
 	am := newAppManager(t)
 	console := consoledog.New(t, consoledog.WithStarter(am.WithConsole))
 
