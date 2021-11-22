@@ -8,7 +8,7 @@ require (
 	github.com/bool64/httpdog v0.2.1
 	github.com/bool64/shared v0.1.3
 	github.com/cucumber/godog v0.12.2
-	github.com/nhatthm/aferodog v0.2.0
+	github.com/nhatthm/aferodog v0.4.0
 	github.com/nhatthm/consoledog v0.2.1
 	github.com/nhatthm/plugin-registry v0.2.1
 	github.com/nhatthm/plugin-registry-github v0.2.1
@@ -24,6 +24,8 @@ require (
 	github.com/cucumber/messages-go/v16 v16.0.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fatih/structtag v1.2.0 // indirect
+	github.com/godogx/aferosteps v0.1.0 // indirect
+	github.com/godogx/expandvars v0.1.0 // indirect
 	github.com/gofrs/uuid v4.1.0+incompatible // indirect
 	github.com/google/go-github/v35 v35.3.0 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
@@ -34,10 +36,10 @@ require (
 	github.com/iancoleman/orderedmap v0.2.0 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/kr/pty v1.1.8 // indirect
+	github.com/kr/text v0.2.0 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
 	github.com/nhatthm/aferoassert v0.1.6 // indirect
 	github.com/nhatthm/aferocopy v1.1.0 // indirect
-	github.com/nhatthm/expandog v0.5.0 // indirect
 	github.com/nhatthm/plugin-registry-fs v0.2.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
