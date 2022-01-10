@@ -6,7 +6,7 @@ require (
 	github.com/Netflix/go-expect v0.0.0-20211003183012-e1a7c020ce25
 	github.com/bool64/ctxd v1.0.0
 	github.com/bool64/httpdog v0.2.1
-	github.com/bool64/shared v0.1.3
+	github.com/bool64/shared v0.1.4
 	github.com/cucumber/godog v0.12.3
 	github.com/godogx/aferosteps v0.1.2
 	github.com/nhatthm/consoledog v0.2.1
