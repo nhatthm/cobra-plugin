@@ -3,13 +3,13 @@ module github.com/nhatthm/cobra-plugin
 go 1.17
 
 require (
-	github.com/Netflix/go-expect v0.0.0-20211003183012-e1a7c020ce25
+	github.com/Netflix/go-expect v0.0.0-20220104043353-73e0943537d2
 	github.com/bool64/ctxd v1.1.2
 	github.com/bool64/httpdog v0.2.1
 	github.com/bool64/shared v0.1.4
 	github.com/cucumber/godog v0.12.4
 	github.com/godogx/aferosteps v0.1.2
-	github.com/nhatthm/consoledog v0.2.1
+	github.com/nhatthm/consoledog v0.3.0
 	github.com/nhatthm/plugin-registry v0.2.1
 	github.com/nhatthm/plugin-registry-github v0.2.1
 	github.com/olekukonko/tablewriter v0.0.5
@@ -25,16 +25,15 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fatih/structtag v1.2.0 // indirect
 	github.com/godogx/expandvars v0.1.1 // indirect
-	github.com/gofrs/uuid v4.1.0+incompatible // indirect
+	github.com/gofrs/uuid v4.2.0+incompatible // indirect
 	github.com/google/go-github/v35 v35.3.0 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/hashicorp/go-immutable-radix v1.3.1 // indirect
 	github.com/hashicorp/go-memdb v1.3.2 // indirect
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
-	github.com/hinshun/vt10x v0.0.0-20180809195222-d55458df857c // indirect
+	github.com/hinshun/vt10x v0.0.0-20220301184237-5011da428d02 // indirect
 	github.com/iancoleman/orderedmap v0.2.0 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
-	github.com/kr/pty v1.1.8 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
 	github.com/nhatthm/aferoassert v0.1.6 // indirect
