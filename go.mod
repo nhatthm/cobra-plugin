@@ -4,13 +4,13 @@ go 1.17
 
 require (
 	github.com/Netflix/go-expect v0.0.0-20220104043353-73e0943537d2
-	github.com/bool64/ctxd v1.2.0
+	github.com/bool64/ctxd v1.2.1
 	github.com/bool64/httpdog v0.2.1
 	github.com/bool64/shared v0.1.5
 	github.com/cucumber/godog v0.12.5
 	github.com/godogx/aferosteps v0.2.0
 	github.com/nhatthm/consoledog v0.3.0
-	github.com/nhatthm/plugin-registry v0.2.1
+	github.com/nhatthm/plugin-registry v0.3.0
 	github.com/nhatthm/plugin-registry-github v0.2.1
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/spf13/cobra v1.6.1
@@ -41,7 +41,7 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
 	github.com/sergi/go-diff v1.2.0 // indirect
-	github.com/spf13/afero v1.9.2 // indirect
+	github.com/spf13/afero v1.9.3 // indirect
 	github.com/swaggest/assertjson v1.6.8 // indirect
 	github.com/swaggest/rest v0.2.11 // indirect
 	github.com/yosuke-furukawa/json5 v0.1.2-0.20201207051438-cf7bb3f354ff // indirect
@@ -49,6 +49,6 @@ require (
 	github.com/yudai/golcs v0.0.0-20170316035057-ecda9a501e82 // indirect
 	go.nhat.io/aferoassert v0.2.0 // indirect
 	golang.org/x/crypto v0.0.0-20211117183948-ae814b36b871 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/text v0.7.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
