@@ -13,7 +13,7 @@ require (
 	github.com/nhatthm/plugin-registry v0.2.1
 	github.com/nhatthm/plugin-registry-github v0.2.1
 	github.com/olekukonko/tablewriter v0.0.5
-	github.com/spf13/cobra v1.6.1
+	github.com/spf13/cobra v1.7.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.8.1
 )
@@ -33,7 +33,7 @@ require (
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/hinshun/vt10x v0.0.0-20220301184237-5011da428d02 // indirect
 	github.com/iancoleman/orderedmap v0.2.0 // indirect
-	github.com/inconshreveable/mousetrap v1.0.1 // indirect
+	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
 	github.com/nhatthm/aferocopy v1.1.0 // indirect
